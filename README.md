@@ -1,6 +1,6 @@
 # Caesar Cipher - Python CLI
 
-## 📚 Overview
+##  Overview
 
 This project is a command-line implementation of the classic **Caesar Cipher** encryption technique using Python.  
 The program allows users to encode or decode a given text by shifting the alphabet by a user-specified number.
@@ -12,13 +12,13 @@ The program also:
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - Python 3
 
 ---
 
-## 🛠️ How to Use
+##  How to Use
 
 1. Run the `cipher.py` file (or your main Python file).
 2. Choose whether you want to `encode` or `decode`.
@@ -29,7 +29,7 @@ The program also:
 
 ---
 
-## 📂 Files
+##  Files
 
 | File | Description |
 |:-----|:------------|
@@ -38,7 +38,7 @@ The program also:
 
 ---
 
-## 📈 Features
+##  Features
 
 - Supports both **encoding** and **decoding** modes
 - Handles non-alphabetic characters correctly
@@ -47,7 +47,7 @@ The program also:
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Add option to encrypt entire files.
 - Add upper/lowercase handling separately.
@@ -55,13 +55,13 @@ The program also:
 
 ---
 
-## ✨ Author
+##  Author
 
 **Atharva Pailwan**
 
 ---
 
-## 🤝 Acknowledgements
+##  Acknowledgements
 
 - Python Community Tutorials
 - Classic Cipher Algorithms
